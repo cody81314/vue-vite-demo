@@ -1,0 +1,15 @@
+{
+  "name": "vite-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "moment": "^2.29.1",
+    "vite": "^3.0.2"
+  }
+}
